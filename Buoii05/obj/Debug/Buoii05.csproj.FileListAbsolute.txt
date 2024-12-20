@@ -1,0 +1,10 @@
+D:\btap\Buoii05\Buoii05\bin\Debug\Buoii05.exe.config
+D:\btap\Buoii05\Buoii05\bin\Debug\Buoii05.exe
+D:\btap\Buoii05\Buoii05\bin\Debug\Buoii05.pdb
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.csproj.AssemblyReference.cache
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.Form1.resources
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.Properties.Resources.resources
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.csproj.GenerateResource.cache
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.csproj.CoreCompileInputs.cache
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.exe
+D:\btap\Buoii05\Buoii05\obj\Debug\Buoii05.pdb
